@@ -27,3 +27,5 @@ This project fetches and displays random dog images using the Dog CEO's Dog API.
    ```sh
    git clone https://github.com/your-username/random-dog-images.git
    ```
+2. Live Demo
+   Check out the live demo of the project on Netlify: https://random-dogimages-generator.netlify.app/
